@@ -236,7 +236,7 @@
               </ui:AssignOperation.To>
               <ui:AssignOperation.Value>
                 <InArgument x:TypeArguments="ui:GenericValue">
-                  <CSharpValue x:TypeArguments="ui:GenericValue" sap2010:WorkflowViewState.IdRef="CSharpValue`1_35">"A + B = " + (A + B)</CSharpValue>
+                  <CSharpValue x:TypeArguments="ui:GenericValue" sap2010:WorkflowViewState.IdRef="CSharpValue`1_40">"A + C = " + (A + C)</CSharpValue>
                 </InArgument>
               </ui:AssignOperation.Value>
             </ui:AssignOperation>
@@ -248,7 +248,7 @@
               </ui:AssignOperation.To>
               <ui:AssignOperation.Value>
                 <InArgument x:TypeArguments="ui:GenericValue">
-                  <CSharpValue x:TypeArguments="ui:GenericValue" sap2010:WorkflowViewState.IdRef="CSharpValue`1_36">"A + B = " + (A + B)</CSharpValue>
+                  <CSharpValue x:TypeArguments="ui:GenericValue" sap2010:WorkflowViewState.IdRef="CSharpValue`1_41">"C + A = " + (C + A)</CSharpValue>
                 </InArgument>
               </ui:AssignOperation.Value>
             </ui:AssignOperation>
