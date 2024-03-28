@@ -41,13 +41,13 @@ Print to the console various operations with them and see what is the result:
 ### SAMPLE OUTPUT
 
 ```
-03/26/2024 14:55:44 => [Debug] Debug started for file: Main
-03/26/2024 14:55:44 => [Info] RPADev-S02P02-GenericValue execution started
-03/26/2024 14:55:44 => [Info] RPADev-S02P02-GenericValue.Main.Alpha; A + B = 123456
-03/26/2024 14:55:44 => [Info] RPADev-S02P02-GenericValue.Main.Bravo; C + D = 579
-03/26/2024 14:55:44 => [Info] RPADev-S02P02-GenericValue.Main.Charlie; A + B = 123456
-03/26/2024 14:55:44 => [Info] RPADev-S02P02-GenericValue.Main.Delta; A + B = 123456
-03/26/2024 14:55:44 => [Info] RPADev-S02P02-GenericValue execution ended in: 00:00:00
+03/27/2024 21:12:36 => [Debug] Debug started for file: Main
+03/27/2024 21:12:36 => [Info] RPADev-S02P02-GenericValue execution started
+03/27/2024 21:12:36 => [Info] RPADev-S02P02-GenericValue.Main.Alpha; A + B = 123456
+03/27/2024 21:12:36 => [Info] RPADev-S02P02-GenericValue.Main.Bravo; C + D = 579
+03/27/2024 21:12:36 => [Info] RPADev-S02P02-GenericValue.Main.Charlie; A + C = 123123
+03/27/2024 21:12:36 => [Info] RPADev-S02P02-GenericValue.Main.Delta; C + A = 246
+03/27/2024 21:12:36 => [Info] RPADev-S02P02-GenericValue execution ended in: 00:00:00
 ```
 
 ### ARCHITECTURE REQUIREMENTS
